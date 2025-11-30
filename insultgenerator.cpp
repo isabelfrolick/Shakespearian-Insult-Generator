@@ -2,7 +2,7 @@
  * insultgenerator.cpp
  *
  *  Created on: Sep. 24, 2021
- *      Author: Isabel Frolick- 18ijzf
+ *      Author: Isabel Frolick
  */
 
 
@@ -19,7 +19,7 @@
 #include <random>
 #include <algorithm>
 
-#include "insultgenerator_18ijzf.h"
+#include "insultgenerator.h"
 
 using namespace std;
 

@@ -2,14 +2,13 @@
  * TestInsultGenerator.cpp
  *
  *      Author: Alan McLeod
- *      A testing program for CISC320 assignment 1.
  */
 
 #include <iostream>
 #include <string>
 #include <vector>
 #include <time.h>
-#include "insultgenerator_netid.h"
+#include "insultgenerator.h"
 
 using namespace std;
 

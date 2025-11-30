@@ -1,15 +1,15 @@
 /*
- * insultgenerator_18ijzf.h
+ * insultgenerator.h
  *
  *  Created on: Sep. 25, 2021
- *      Author: Isabel Frolick, 18ijzf
+ *      Author: Isabel Frolick
  */
 
 
 //if not defined and define statement for complete syntax in header file
 
-#ifndef INSULTGENERATOR_18IJZF_H_
-#define INSULTGENERATOR_18IJZF_H_
+#ifndef INSULTGENERATOR_H_
+#define INSULTGENERATOR_H_
 
 //all libraries included in child files of this header file
 #include <iostream>
