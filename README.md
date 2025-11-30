@@ -29,3 +29,5 @@ The source file `InsultsSource.txt` contains 50 rows of 3 tab-separated columns,
 1. Compile all source files, including the test driver:  
    ```bash
    g++ -std=c++11 TestInsultGenerator.cpp insultgenerator.cpp -o insultgen
+   ./insultgen
+
